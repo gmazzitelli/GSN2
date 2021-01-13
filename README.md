@@ -1,9 +1,11 @@
 # GSN2
-software per la gestione missioni sotto dotazioni di CSN2
-gestione del file missioni su dotazione
+software per la gestione missioni sotto dotazioni di CSN2 LNF
 
-MissioniDotazioni.ipynb script per la visualizzazione delle missioni sotto dotazioni
+## MissioniDotazioni.ipynb ## 
+script per la visualizzazione delle missioni sotto dotazioni
 
-CSN2_persone.ipynb personale da db assegnazioni (old)
+## CSN2_persone.ipynb ##
+personale da db assegnazioni (old)
 
-AnagraficheCSN2.ipynb script lettura e elaborazione anagrafica INFN (GODIVA, Assegnazioni e Fondi Esterni)
+## AnagraficheCSN2.ipynb ##
+script lettura e elaborazione anagrafica INFN (GODIVA, Assegnazioni e Fondi Esterni)
